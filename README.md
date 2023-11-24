@@ -4,13 +4,18 @@
 </div>
 
 ## Who I am 😎
-I'm a developer with a passion for being on the bleeding edge of things. I also like to experiment and do-things-myself. (DIY.) And it's why I love linux! But you may be asking, "What the hell is your name?" and to that I answer: none of your buisness creep.
+I'm a developer with a passion for being on the bleeding edge of things. I also like to experiment and do-things-myself. (D.I.Y.) But you may be asking, "What the hell is your name?" and to that I answer: none of your buisness, creep.
 
 ## Preferences ⚙️
 - 💻 Laptops every day of the week
-- 🤖 Android (Green bubble gang!)
+- 🤖 iPhone (Blue bubble gang!)
 - 🍝 Spagghetti, the best meal
 - 🌸 Vanilla Ice-Cream
 
-## My Opinion on FOSS 💻
-I think FOSS is very great! But I'm not one of those people who won't use proprietary and non-free software. I just _prefer_ things to be FOSS. Or at least be trustworthy, and have an API for users to customize their workflow. I'll use Google Play, and whatnot. But I still like when stuff is FOSS, or even open-source. Even if it's an app that has some proprietary stuff built onto it's open core (lookin' at you _chrome_.)
+## What I'm working on 📱
+I like to code websites, and apps for Apple platforms. Here are some things I want to build:
+
+Function                 |Target                    |Name    |Repository
+-------------------------|--------------------------|--------|----------
+A motion graphic designer|Mac, iPad, Vision         |Kinetic |N/A
+A universal gameing hub  |Mac, iPad, Vision, Windows|Game Hub|
