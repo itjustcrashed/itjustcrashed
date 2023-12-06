@@ -15,7 +15,7 @@ I'm a developer with a passion for being on the bleeding edge of things. I also 
 ## What I'm working on 📱
 I like to code websites, and apps for Apple platforms. Here are some things I want to build:
 
-Function                 |Target                    |Name    |Repository
--------------------------|--------------------------|--------|----------
-A motion graphic designer|Mac, iPad, Vision         |Kinetic |N/A
-A universal gameing hub  |Mac, iPad, Vision, Windows|Game Hub|
+Function                 |Target                    |Name       |Repository
+-------------------------|--------------------------|-----------|----------
+A motion graphic designer|Mac, iPad, Vision         |Kinetic    |N/A
+A universal gameing hub  |Mac, iPad, Vision, Windows|Game Lounge|
