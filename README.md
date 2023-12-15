@@ -8,6 +8,6 @@ I'm a developer with a passion for being on the bleeding edge of things. I also 
 
 ## Preferences ⚙️
 - 💻 Laptops every day of the week
-- 🤖 Android (Green Bubble Gang!)
+- 🤖 Android Gang
 - 🍝 Spagghetti, the best meal
 - 🌸 Vanilla Ice-Cream
