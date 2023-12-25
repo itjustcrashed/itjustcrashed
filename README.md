@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, fellow developers!</h1>
-  <p>It's your friendly neighborhood linux user</p>
+  <p>It's your friendly neighborhood Mac user!</p>
 </div>
 
 ## Who I am 😎
@@ -8,6 +8,6 @@ I'm a developer with a passion for being on the bleeding edge of things. I also 
 
 ## Preferences ⚙️
 - 💻 Laptops every day of the week
-- 🤖 Android Gang
+- 🍎 iPhone Gang
 - 🍝 Spagghetti, the best meal
 - 🌸 Vanilla Ice-Cream
