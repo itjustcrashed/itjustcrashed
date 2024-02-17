@@ -11,3 +11,5 @@ I'm a developer with a passion for being on the bleeding edge of things. I also 
 - 🍎 iPhone Gang
 - 🍝 Spagghetti, the best meal
 - 🌸 Vanilla Ice-Cream
+
+I know, I make messy code.
