@@ -7,6 +7,9 @@
 ## Who I am 😎
 I'm a developer with a passion for being on the bleeding edge of things. I also like to experiment and do-things-myself. (D.I.Y.) But you may be asking, "What the hell is your name?" and to that I answer: none of your buisness, creep.
 
+## Languages ⌨️
+![Swift][Swift Icon] **Swift**
+
 ## Preferences ⚙️
 - 🌃 Tokyo Night
 - 💿 Upbeat; Hip-Hop; Country
@@ -21,3 +24,5 @@ I'm a developer with a passion for being on the bleeding edge of things. I also 
 <br>
 
 _I know, I make messy code._
+
+[Swift Icon]: https://raw.githubusercontent.com/wannafedor4/wannafedor4/main/assets/swift-logo.png "Swift Logo"
