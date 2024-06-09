@@ -8,7 +8,9 @@
 I'm a developer with a passion for being on the bleeding edge of things. I also like to experiment and do-things-myself. (D.I.Y.) But you may be asking, "What the hell is your name?" and to that I answer: none of your buisness, creep.
 
 ## Languages ⌨️
-![Swift][Swift Icon] **Swift**
+- ![Swift][Swift Icon] **Swift**
+- HTML
+- CSS
 
 ## Preferences ⚙️
 - 🌃 Tokyo Night
