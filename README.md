@@ -7,15 +7,16 @@
 ## Who I am 😎
 I'm a developer with a passion for being on the bleeding edge of things. I also like to experiment and do-things-myself. (D.I.Y.) But you may be asking, "What the hell is your name?" and to that I answer: none of your buisness, creep.
 
-## Current Project
-<img width=100 src="https://github.com/wannafedor4/wannafedor4/assets/151413500/c0fa0bc1-1136-473a-9ee2-b057b3e5c67e"/>
-
-[**Minibox**](https://github.com/Minibox-Development/Minibox) - A CLI tool to quickly create, manage, and work in simplified containers
+## Current Projects
+Name                                                           |Language       |Description
+---------------------------------------------------------------|---------------|-----------
+[**Minibox**](https://github.com/Minibox-Development/Minibox)  |Swift (SwiftPM)|A CLI tool to quickly create, manage, and work in simplified containers
+[**Redstoneflow**](https://github.com/wannafedor4/Redstoneflow)|Java (Quilt)   |Simpilified redstone data flows and conditionals mod for Minecraft: Java Edition.
 
 ## Languages ⌨️
 - ![Swift][Swift Icon] **Swift**
-- HTML
-- CSS
+- ☕️ Java
+- 🤖 Kotlin
 
 ## Preferences ⚙️
 - 🌃 Tokyo Night
