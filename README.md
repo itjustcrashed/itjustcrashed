@@ -10,7 +10,7 @@ I'm a developer with a passion for being on the bleeding edge of things. I also 
 ## Current Projects
 Name                                                           |Language                                       |Description                                                                          |Framework               |
 ---------------------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------|------------------------|
-[**Minibox**](https://github.com/Minibox-Development/Minibox)  |Swift                                          |A CLI tool to quickly create, manage, and work in simplified containers              |                        |
+[**Minibox**](https://github.com/Minibox-Development/Minibox)  |Swift                                          |A CLI tool to quickly create, manage, and work in simplified containers              |ArgumentParser          |
 [**Redstoneflow**](https://github.com/wannafedor4/Redstoneflow)|Java (Quilt)                                   |Simpilified redstone data flows and conditionals mod for Minecraft: Java Edition.    |Quilt                   |
 [**Passes**](https://github.com/wannafedor4/passesweb)         |Typescript, Kotlin                             |Password manager to store your keys and nothing else, except the neccessary features.|Angular, Jetpack Compose|
 
