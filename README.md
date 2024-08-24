@@ -13,7 +13,8 @@ Name                                                           |Language|Descrip
 [**Tour Guide**](https://tourguide.wannafedor4.com)            |Swift   |Open, search, close. This app lets you quickly search your town or city for things to do and places to go.|SwiftUI, MapKit, TripAdvisor, CoreML|iOS, iPadOS, visionOS, CarPlay|
 
 ## Languages ⌨️
-- ![Swift][Swift Icon] **Swift**
+- 🐦‍🔥 **Swift**
+- 📜 TypeScript
 - ☕️ Java
 - 🤖 Kotlin
 
