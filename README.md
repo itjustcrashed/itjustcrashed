@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Fedora Guy's stats](https://github-readme-stats.vercel.app/api?username=wannafedor4&theme=tokyonight)
+  ![Fedora Guy's stats](https://github-readme-stats.vercel.app/api?username=itjustcrashed&theme=tokyonight)
   <p>It's your friendly neighborhood Mac user!</p>
 </div>
 
