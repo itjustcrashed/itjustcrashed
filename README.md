@@ -27,11 +27,9 @@ Name                                               |Language|Description        
 - Having my $%0! together
 
 # Screenshots
-<img src="https://github.com/wannafedor4/wannafedor4/assets/151413500/b28dbe00-a58c-4fe4-a8b5-cc9173913dfc" height=338>
-<img src="https://github.com/wannafedor4/wannafedor4/assets/151413500/808a65d2-15d0-4948-92c2-c9ee78b75c56" height=338>
+<img src="https://github.com/itjustcrashed/wannafedor4/assets/151413500/b28dbe00-a58c-4fe4-a8b5-cc9173913dfc" height=338>
+<img src="https://github.com/itjustcrashed/wannafedor4/assets/151413500/808a65d2-15d0-4948-92c2-c9ee78b75c56" height=338>
 <br>
 <br>
 
 _I know, I make messy code._
-
-[Swift Icon]: https://raw.githubusercontent.com/wannafedor4/wannafedor4/main/assets/swift-logo.png "Swift Logo"
