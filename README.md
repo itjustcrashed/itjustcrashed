@@ -1,4 +1,4 @@
-Hi, I'm Gavin. (they/them)
+Hi, I'm Gavin.
 
 I’m a Splatoon fan, hobby Swift developer, and occasional artist
 working on an Apple-ecosystem app — more to come soon!
