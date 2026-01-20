@@ -3,7 +3,7 @@ Hi, I'm Gavin.
 I’m a Splatoon fan, hobby Swift developer, and occasional artist
 working on an Apple-ecosystem app — more to come soon!
 
-Email me at gavin@itjustcrashed.com
+Email me at itjustcrashed@krnlpanic.net
 
 Cool apps you should check out:
 * [Craft](https://www.craft.do/)
