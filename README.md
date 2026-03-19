@@ -1,11 +1,12 @@
-Hi, I'm Gavin.
+# who is this???
+im gavin
 
-I’m a Splatoon fan, hobby Swift developer, and occasional artist
-working on an Apple-ecosystem app — more to come soon!
+# why is this who???
+i like redesigning systems when they are just slightly annoying bc screw conformity
+
+also value semantics are awesome
+
+# how did who why over???
+i think you need to talk to a neurologist
 
 Email me at itjustcrashed@krnlpanic.net
-
-Cool apps you should check out:
-* [Craft](https://www.craft.do/)
-* [Tripsy](https://tripsy.app/)
-* [Klack](https://tryklack.com)
