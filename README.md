@@ -9,4 +9,7 @@ also value semantics are awesome
 # how did who why over???
 i think you need to talk to a neurologist
 
-Email me at itjustcrashed@krnlpanic.net
+```swift
+// look only one line im so cool
+fn pow(lhs: Decimal, rhs: Decimal) { _pow(lhs: lhs, rhs: rhs) }
+```
